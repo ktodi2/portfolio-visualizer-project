@@ -52,15 +52,15 @@ The result is a **dynamic portfolio visualizer** that can help investors, data s
 
 Below is an overview of the key files included. Click any of the links to view detailed information:
 
-- **[understand.md](./understand.md)** – Additional project background and context.
-- **[tp3final(112).md](./tp3final(112).md)** – Main script or notes explaining the core functionalities.
-- **[bands_gbm.md](./bands_gbm.md)** – Detailed explanation and usage of Bollinger Bands with Geometric Brownian Motion.
-- **[sentimentanalysis.md](./sentimentanalysis.md)** – Outline of the sentiment analysis pipeline.
-- **[optimise.md](./optimise.md)** – Sharpe ratio optimization and portfolio allocation methodologies.
-- **[elon.md](./elon.md)** – Details on the Elon Musk tweets dataset and its analysis.
-- **[brownianmotion.md](./brownianmotion.md)** – Mathematical background on Geometric Brownian Motion.
-- **[simulate.md](./simulate.md)** – Explanation of the Monte Carlo simulation process.
-- **[cmu_112_graphics.md](./cmu_112_graphics.md)** – Visualization and UI notes (if relevant).
+- **[understand.py](./understand.py)** – Additional project background and context.
+- **[tp3final(112).py](./tp3final(112).py)** – Main script or notes explaining the core functionalities.
+- **[bands_gbm.py](./bands_gbm.py)** – Detailed explanation and usage of Bollinger Bands with Geometric Brownian Motion.
+- **[sentimentanalysis.py](./sentimentanalysis.py)** – Outline of the sentiment analysis pipeline.
+- **[optimise.py](./optimise.py)** – Sharpe ratio optimization and portfolio allocation methodologies.
+- **[elon.py](./elon.py)** – Details on the Elon Musk tweets dataset and its analysis.
+- **[brownianmotion.py](./brownianmotion.py)** – Mathematical background on Geometric Brownian Motion.
+- **[simulate.py](./simulate.py)** – Explanation of the Monte Carlo simulation process.
+- **[cmu_112_graphics.py](./cmu_112_graphics.py)** – Visualization and UI notes (if relevant).
 
 ### Data Files
 - **[TweetsElonMusk.csv](./TweetsElonMusk.csv)** – Dataset containing Elon Musk's tweets for sentiment analysis.
